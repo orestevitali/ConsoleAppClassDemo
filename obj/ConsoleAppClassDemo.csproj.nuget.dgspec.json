@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj": {}
+    "d:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj": {}
   },
   "projects": {
-    "D:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj": {
+    "d:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj",
+        "projectUniqueName": "d:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj",
         "projectName": "ConsoleAppClassDemo",
-        "projectPath": "D:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj",
+        "projectPath": "d:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj",
         "packagesPath": "C:\\Users\\orest\\.nuget\\packages\\",
-        "outputPath": "D:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\obj\\",
+        "outputPath": "d:\\orest\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
