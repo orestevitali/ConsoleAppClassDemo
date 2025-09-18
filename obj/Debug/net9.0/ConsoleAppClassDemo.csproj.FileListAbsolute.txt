@@ -1,0 +1,15 @@
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\bin\Debug\net9.0\ConsoleAppClassDemo.exe
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\bin\Debug\net9.0\ConsoleAppClassDemo.deps.json
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\bin\Debug\net9.0\ConsoleAppClassDemo.runtimeconfig.json
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\bin\Debug\net9.0\ConsoleAppClassDemo.dll
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\bin\Debug\net9.0\ConsoleAppClassDemo.pdb
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ConsoleAppClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ConsoleAppClassDemo.AssemblyInfoInputs.cache
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ConsoleAppClassDemo.AssemblyInfo.cs
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ConsoleAppClassDemo.csproj.CoreCompileInputs.cache
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ConsoleAppClassDemo.sourcelink.json
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ConsoleAppClassDemo.dll
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\refint\ConsoleAppClassDemo.dll
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ConsoleAppClassDemo.pdb
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ConsoleAppClassDemo.genruntimeconfig.cache
+c:\Users\CMU5523\personali\OneDrive\repos\ConsoleAppClassDemo\ConsoleAppClassDemo\obj\Debug\net9.0\ref\ConsoleAppClassDemo.dll
