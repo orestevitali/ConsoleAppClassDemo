@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj": {}
+    "c:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj": {
+    "c:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj",
+        "projectUniqueName": "c:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj",
         "projectName": "ConsoleAppClassDemo",
-        "projectPath": "C:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj",
+        "projectPath": "c:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\ConsoleAppClassDemo.csproj",
         "packagesPath": "C:\\Users\\CMU5523\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\obj\\",
+        "outputPath": "c:\\Users\\CMU5523\\personali\\OneDrive\\repos\\ConsoleAppClassDemo\\ConsoleAppClassDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CMU5523\\AppData\\Roaming\\NuGet\\NuGet.Config"
